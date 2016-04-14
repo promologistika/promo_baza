@@ -165,6 +165,10 @@
 								$message._show('success', 'Thank you!');
 								//$message._show('failure', 'Something went wrong. Please try again.');
 
+						//pozivanje na drugu stranicu		
+
+						window.location.href = "otpremnice.html" ;		
+
 						}, 750);
 
 				});
